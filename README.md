@@ -1,2 +1,2 @@
-# Python-B-sico
+# Python-Basico
 Aprendedo Pyhton
